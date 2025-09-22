@@ -1,4 +1,5 @@
 # MyTreeMap
+Этот код реализует бинарное дерево поиска в виде класса MyTreeMap, который является аналогом TreeMap из Java Collections. Вот основная суть:
 public class Homework3 {
     public static class MyTreeMap<K, V> {
 
